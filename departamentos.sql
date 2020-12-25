@@ -1,6 +1,6 @@
 CREATE TABLE departamentos (
 	codigo SMALLSERIAL,
-  nome VARCHAR(100) NOT NULL,
+  	nome VARCHAR(100) NOT NULL,
 	sigla VARCHAR(5) NOT NULL,
 	PRIMARY KEY (codigo)
 );

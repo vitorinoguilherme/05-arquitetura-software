@@ -8,9 +8,9 @@ CREATE TABLE IF NOT EXISTS funcionarios (
 );
 
 INSERT INTO funcionarios VALUES ('70384986064', 'Joao da Silva', 'joao@email.com', 1),
-																('99848184031', 'Maria Santos', 'maria@email.com', 1),
-																('32541752040', 'Pedro Gomes', 'pedro@email.com', 2),
-																('73963114037', 'Carlos Alves', 'carlos@email.com', 2);
+				('99848184031', 'Maria Santos', 'maria@email.com', 1),
+				('32541752040', 'Pedro Gomes', 'pedro@email.com', 2),
+				('73963114037', 'Carlos Alves', 'carlos@email.com', 2);
 
 SELECT * FROM funcionarios;
 
